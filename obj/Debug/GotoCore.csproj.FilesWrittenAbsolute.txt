@@ -1,0 +1,6 @@
+/Volumes/Work/CSharp/GotoCoreC#/GotoCore/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Volumes/Work/CSharp/GotoCoreC#/GotoCore/bin/Debug/GotoCore.dll.mdb
+/Volumes/Work/CSharp/GotoCoreC#/GotoCore/bin/Debug/GotoCore.dll
+/Volumes/Work/CSharp/GotoCoreC#/GotoCore/obj/Debug/GotoCore.dll
+/Volumes/Work/CSharp/GotoCoreC#/GotoCore/obj/Debug/GotoCore.dll.mdb
+/Volumes/Work/CSharp/GotoCoreC#/GotoCore/bin/Debug/Newtonsoft.Json.dll
