@@ -1,0 +1,20 @@
+{
+    "name": "GotoCore.Samples.Counter",
+    "rootNamespace": "GotoCore.Samples.Counter",
+    "references": [
+        "GotoCore.Runtime",
+        "GotoCore.Unity",
+        "GotoCore.VContainer",
+        "VContainer",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

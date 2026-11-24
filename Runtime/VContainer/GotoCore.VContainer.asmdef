@@ -1,0 +1,26 @@
+{
+    "name": "GotoCore.VContainer",
+    "rootNamespace": "GotoCore.DI",
+    "references": [
+        "GotoCore.Runtime",
+        "GotoCore.Unity",
+        "VContainer"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "GOTOCORE_VCONTAINER"
+    ],
+    "versionDefines": [
+        {
+            "name": "jp.hadashikick.vcontainer",
+            "expression": "1.13.0",
+            "define": "GOTOCORE_VCONTAINER"
+        }
+    ],
+    "noEngineReferences": false
+}

@@ -1,0 +1,28 @@
+{
+  "name": "com.varadig.gotocore",
+  "version": "2.0.0",
+  "displayName": "GotoCore",
+  "description": "Lightweight, message-driven MVC framework for Unity: typed message bus, commands, observable models, controllers and views, with optional VContainer integration.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Gábor Váradi",
+    "url": "https://varadig.github.io/"
+  },
+  "keywords": [
+    "mvc",
+    "messaging",
+    "event-bus",
+    "commands",
+    "dependency-injection",
+    "vcontainer",
+    "architecture"
+  ],
+  "dependencies": {},
+  "samples": [
+    {
+      "displayName": "Counter (MVC + VContainer)",
+      "description": "Model, view, controller and commands wired together with VContainer. Requires VContainer and uGUI.",
+      "path": "Samples~/Counter"
+    }
+  ]
+}
